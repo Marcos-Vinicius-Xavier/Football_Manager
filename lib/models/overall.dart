@@ -1,5 +1,5 @@
 class Overall {
-  int ataque;
+  int chute;
   int defesa;
   int fisico;
   int velocidade;
@@ -7,7 +7,7 @@ class Overall {
   int passe;
 
   Overall({
-    required this.ataque,
+    required this.chute,
     required this.defesa,
     required this.fisico,
     required this.velocidade,

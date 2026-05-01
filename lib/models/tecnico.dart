@@ -4,6 +4,8 @@ class Tecnico {
   String nacionalidade;
   String estiloDeJogo;
 
+//estiloDeJogo pode ser: Ofensivo, Defensivo, Moderado
+
   Tecnico({
     required this.nome,
     required this.idade,
