@@ -9,8 +9,6 @@ class Time {
   int golsMarcados;
   int golsSofridos;
   List<Jogador> jogadores;
-  List<String> titulos;
-
 
   Time({
     required this.nome,
@@ -21,6 +19,5 @@ class Time {
     required this.golsMarcados,
     required this.golsSofridos,
     required this.jogadores,
-    required this.titulos
   });
 }
