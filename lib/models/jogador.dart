@@ -1,6 +1,7 @@
 import 'Overall.dart';
 
 class Jogador {
+  String id;
   String nome;
   String posicao;
   int idade;
@@ -8,9 +9,10 @@ class Jogador {
   int gols;
   Overall overall;
 
-//String posicao pode ser: Goleiro, Zagueiro, Lateral, Meio-campista, Atacante
+//String posicao pode ser: 'Goleiro', 'Defensor', 'Meia', 'Atacante'
   
   Jogador({
+    required this.id,
     required this.nome,
     required this.posicao,
     required this.idade,
@@ -18,6 +20,26 @@ class Jogador {
     required this.gols,
     required this.overall,
   });
+
+
+  factory Jogador.fromJson(Map<String, dynamic> json) {
+    return Jogador(
+      id: json['id'],
+      nome: json['nome'],
+      posicao: json['posicao'],
+      idade: json['idade'],
+      nacionalidade: json['nacionalidade'],
+      gols: json['gols'],
+      overall: Overall(
+        chute: json['overall']['chute'],
+        defesa: json['overall']['defesa'],
+        fisico: json['overall']['fisico'],
+        velocidade: json['overall']['velocidade'],
+        drible: json['overall']['drible'],
+        passe: json['overall']['passe'],
+      ),
+    );
+  }
 
   int get overallScore {
     if (posicao == 'Goleiro') {
@@ -31,5 +53,6 @@ class Jogador {
     } else {
       return 0;
     }
+
   }
 }

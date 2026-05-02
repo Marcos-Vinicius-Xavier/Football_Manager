@@ -1,0 +1,603 @@
+[
+  {
+    "id": "alisson",
+    "nome": "Alisson",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 21,
+      "defesa": 89,
+      "fisico": 85,
+      "velocidade": 52,
+      "drible": 45,
+      "passe": 85
+    }
+  },
+  {
+    "id": "ederson",
+    "nome": "Ederson",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 25,
+      "defesa": 88,
+      "fisico": 82,
+      "velocidade": 60,
+      "drible": 50,
+      "passe": 93
+    }
+  },
+  {
+    "id": "bento",
+    "nome": "Bento",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 20,
+      "defesa": 81,
+      "fisico": 80,
+      "velocidade": 55,
+      "drible": 40,
+      "passe": 75
+    }
+  },
+  {
+    "id": "marquinhos",
+    "nome": "Marquinhos",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 53,
+      "defesa": 89,
+      "fisico": 80,
+      "velocidade": 78,
+      "drible": 69,
+      "passe": 75
+    }
+  },
+  {
+    "id": "eder_militao",
+    "nome": "Éder Militão",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 50,
+      "defesa": 86,
+      "fisico": 84,
+      "velocidade": 82,
+      "drible": 70,
+      "passe": 71
+    }
+  },
+  {
+    "id": "gabriel_magalhaes",
+    "nome": "Gabriel Magalhães",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 45,
+      "defesa": 84,
+      "fisico": 85,
+      "velocidade": 70,
+      "drible": 60,
+      "passe": 68
+    }
+  },
+  {
+    "id": "bremer",
+    "nome": "Bremer",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 48,
+      "defesa": 85,
+      "fisico": 83,
+      "velocidade": 79,
+      "drible": 58,
+      "passe": 65
+    }
+  },
+  {
+    "id": "danilo",
+    "nome": "Danilo",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 68,
+      "defesa": 81,
+      "fisico": 79,
+      "velocidade": 75,
+      "drible": 76,
+      "passe": 78
+    }
+  },
+  {
+    "id": "yan_couto",
+    "nome": "Yan Couto",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 62,
+      "defesa": 72,
+      "fisico": 65,
+      "velocidade": 85,
+      "drible": 80,
+      "passe": 76
+    }
+  },
+  {
+    "id": "guilherme_arana",
+    "nome": "Guilherme Arana",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 70,
+      "defesa": 74,
+      "fisico": 72,
+      "velocidade": 81,
+      "drible": 78,
+      "passe": 77
+    }
+  },
+  {
+    "id": "wendell",
+    "nome": "Wendell",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 65,
+      "defesa": 76,
+      "fisico": 73,
+      "velocidade": 79,
+      "drible": 75,
+      "passe": 74
+    }
+  },
+  {
+    "id": "bruno_guimaraes",
+    "nome": "Bruno Guimarães",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 75,
+      "defesa": 78,
+      "fisico": 80,
+      "velocidade": 70,
+      "drible": 82,
+      "passe": 86
+    }
+  },
+  {
+    "id": "casemiro",
+    "nome": "Casemiro",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 73,
+      "defesa": 87,
+      "fisico": 88,
+      "velocidade": 63,
+      "drible": 72,
+      "passe": 76
+    }
+  },
+  {
+    "id": "douglas_luiz",
+    "nome": "Douglas Luiz",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 78,
+      "defesa": 76,
+      "fisico": 77,
+      "velocidade": 72,
+      "drible": 80,
+      "passe": 83
+    }
+  },
+  {
+    "id": "joao_gomes",
+    "nome": "João Gomes",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 65,
+      "defesa": 80,
+      "fisico": 83,
+      "velocidade": 74,
+      "drible": 76,
+      "passe": 75
+    }
+  },
+  {
+    "id": "lucas_paqueta",
+    "nome": "Lucas Paquetá",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 80,
+      "defesa": 72,
+      "fisico": 79,
+      "velocidade": 76,
+      "drible": 85,
+      "passe": 83
+    }
+  },
+  {
+    "id": "andreas_pereira",
+    "nome": "Andreas Pereira",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 77,
+      "defesa": 65,
+      "fisico": 70,
+      "velocidade": 75,
+      "drible": 81,
+      "passe": 80
+    }
+  },
+  {
+    "id": "vinicius_jr",
+    "nome": "Vinícius Jr",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 84,
+      "defesa": 34,
+      "fisico": 75,
+      "velocidade": 95,
+      "drible": 92,
+      "passe": 80
+    }
+  },
+  {
+    "id": "rodrygo",
+    "nome": "Rodrygo",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 82,
+      "defesa": 32,
+      "fisico": 68,
+      "velocidade": 88,
+      "drible": 89,
+      "passe": 81
+    }
+  },
+  {
+    "id": "neymar",
+    "nome": "Neymar",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 85,
+      "defesa": 40,
+      "fisico": 70,
+      "velocidade": 90,
+      "drible": 95,
+      "passe": 88
+    }
+  },
+  {
+    "id": "raphinha",
+    "nome": "Raphinha",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 81,
+      "defesa": 50,
+      "fisico": 74,
+      "velocidade": 89,
+      "drible": 85,
+      "passe": 79
+    }
+  },
+  {
+    "id": "savinho",
+    "nome": "Savinho",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 75,
+      "defesa": 30,
+      "fisico": 65,
+      "velocidade": 91,
+      "drible": 87,
+      "passe": 76
+    }
+  },
+  {
+    "id": "endrick",
+    "nome": "Endrick",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 79,
+      "defesa": 35,
+      "fisico": 82,
+      "velocidade": 87,
+      "drible": 81,
+      "passe": 70
+    }
+  },
+
+  {
+    "id": "emiliano_martinez",
+    "nome": "Emiliano Martínez",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 20,
+      "defesa": 87,
+      "fisico": 83,
+      "velocidade": 58,
+      "drible": 48,
+      "passe": 79
+    }
+  },
+  {
+    "id": "geronimo_rulli",
+    "nome": "Gerónimo Rulli",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 18,
+      "defesa": 81,
+      "fisico": 78,
+      "velocidade": 50,
+      "drible": 42,
+      "passe": 72
+    }
+  },
+  {
+    "id": "walter_benitez",
+    "nome": "Walter Benítez",
+    "posicao": "Goleiro",
+    "overall": {
+      "chute": 15,
+      "defesa": 80,
+      "fisico": 82,
+      "velocidade": 45,
+      "drible": 38,
+      "passe": 65
+    }
+  },
+  {
+    "id": "cristian_romero",
+    "nome": "Cristian Romero",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 46,
+      "defesa": 88,
+      "fisico": 85,
+      "velocidade": 81,
+      "drible": 62,
+      "passe": 70
+    }
+  },
+  {
+    "id": "nicolas_otamendi",
+    "nome": "Nicolás Otamendi",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 55,
+      "defesa": 85,
+      "fisico": 84,
+      "velocidade": 60,
+      "drible": 58,
+      "passe": 68
+    }
+  },
+  {
+    "id": "lisandro_martinez",
+    "nome": "Lisandro Martínez",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 40,
+      "defesa": 84,
+      "fisico": 80,
+      "velocidade": 75,
+      "drible": 74,
+      "passe": 82
+    }
+  },
+  {
+    "id": "nahuel_molina",
+    "nome": "Nahuel Molina",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 68,
+      "defesa": 77,
+      "fisico": 75,
+      "velocidade": 86,
+      "drible": 79,
+      "passe": 78
+    }
+  },
+  {
+    "id": "gonzalo_montiel",
+    "nome": "Gonzalo Montiel",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 62,
+      "defesa": 78,
+      "fisico": 79,
+      "velocidade": 78,
+      "drible": 72,
+      "passe": 74
+    }
+  },
+  {
+    "id": "nicolas_tagliafico",
+    "nome": "Nicolás Tagliafico",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 58,
+      "defesa": 81,
+      "fisico": 80,
+      "velocidade": 77,
+      "drible": 70,
+      "passe": 73
+    }
+  },
+  {
+    "id": "marcos_acuna",
+    "nome": "Marcos Acuña",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 74,
+      "defesa": 79,
+      "fisico": 82,
+      "velocidade": 76,
+      "drible": 83,
+      "passe": 81
+    }
+  },
+  {
+    "id": "german_pezzella",
+    "nome": "Germán Pezzella",
+    "posicao": "Defensor",
+    "overall": {
+      "chute": 45,
+      "defesa": 80,
+      "fisico": 81,
+      "velocidade": 55,
+      "drible": 52,
+      "passe": 60
+    }
+  },
+  {
+    "id": "rodrigo_de_paul",
+    "nome": "Rodrigo De Paul",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 77,
+      "defesa": 78,
+      "fisico": 83,
+      "velocidade": 74,
+      "drible": 81,
+      "passe": 84
+    }
+  },
+  {
+    "id": "alexis_mac_allister",
+    "nome": "Alexis Mac Allister",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 79,
+      "defesa": 75,
+      "fisico": 77,
+      "velocidade": 70,
+      "drible": 82,
+      "passe": 86
+    }
+  },
+  {
+    "id": "enzo_fernandez",
+    "nome": "Enzo Fernández",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 76,
+      "defesa": 76,
+      "fisico": 79,
+      "velocidade": 72,
+      "drible": 80,
+      "passe": 87
+    }
+  },
+  {
+    "id": "leandro_paredes",
+    "nome": "Leandro Paredes",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 75,
+      "defesa": 77,
+      "fisico": 78,
+      "velocidade": 65,
+      "drible": 78,
+      "passe": 85
+    }
+  },
+  {
+    "id": "exequiel_palacios",
+    "nome": "Exequiel Palacios",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 70,
+      "defesa": 74,
+      "fisico": 76,
+      "velocidade": 72,
+      "drible": 79,
+      "passe": 81
+    }
+  },
+  {
+    "id": "giovani_lo_celso",
+    "nome": "Giovani Lo Celso",
+    "posicao": "Meia",
+    "overall": {
+      "chute": 73,
+      "defesa": 68,
+      "fisico": 70,
+      "velocidade": 74,
+      "drible": 84,
+      "passe": 85
+    }
+  },
+  {
+    "id": "lionel_messi",
+    "nome": "Lionel Messi",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 90,
+      "defesa": 35,
+      "fisico": 65,
+      "velocidade": 78,
+      "drible": 94,
+      "passe": 92
+    }
+  },
+  {
+    "id": "lautaro_martinez",
+    "nome": "Lautaro Martínez",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 88,
+      "defesa": 45,
+      "fisico": 85,
+      "velocidade": 82,
+      "drible": 83,
+      "passe": 72
+    }
+  },
+  {
+    "id": "julian_alvarez",
+    "nome": "Julián Álvarez",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 84,
+      "defesa": 50,
+      "fisico": 79,
+      "velocidade": 86,
+      "drible": 82,
+      "passe": 78
+    }
+  },
+  {
+    "id": "angel_di_maria",
+    "nome": "Ángel Di María",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 81,
+      "defesa": 48,
+      "fisico": 68,
+      "velocidade": 82,
+      "drible": 88,
+      "passe": 84
+    }
+  },
+  {
+    "id": "nicolas_gonzalez",
+    "nome": "Nicolás González",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 77,
+      "defesa": 55,
+      "fisico": 78,
+      "velocidade": 88,
+      "drible": 80,
+      "passe": 72
+    }
+  },
+  {
+    "id": "alejandro_garnacho",
+    "nome": "Alejandro Garnacho",
+    "posicao": "Atacante",
+    "overall": {
+      "chute": 78,
+      "defesa": 32,
+      "fisico": 65,
+      "velocidade": 89,
+      "drible": 84,
+      "passe": 70
+    }
+  }
+
+
+]
