@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'tela_principal.dart';
+import 'tela_cadastro_tecnico.dart';
 
 class TelaIncial extends StatelessWidget {
   const TelaIncial({super.key});
@@ -22,7 +23,13 @@ class TelaIncial extends StatelessWidget {
               height: 60,
               child: ElevatedButton(
                 onPressed: () {
-                  // Ação do botão 1
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const TelaCadastroTecnico(),
+
+                    ),
+                  );
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.blue,
